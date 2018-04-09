@@ -23,7 +23,7 @@
 
 definition(
 	name: "Splunk HTTP Event Logger",
-	namespace: "thefuzz4",
+	namespace: "splunklogger",
 	author: "Brian Keifer and Jason Hamilton",
 	description: "Log SmartThings events to a Splunk HTTP Event Collector server",
 	category: "Convenience",
