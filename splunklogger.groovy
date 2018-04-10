@@ -213,7 +213,7 @@ def genericHandler(evt) {
 	json += "\"location\":\"${evt.location}\","
 	json += "\"locationId\":\"${evt.locationId}\","
 	json += "\"unit\":\"${evt.unit}\","
-	json += "\"source\":\"${evt.source}\",}"
+	json += "\"source\":\"${evt.source}\"}"
 	json += "}"
 
 	//log.debug("JSON: ${json}")
